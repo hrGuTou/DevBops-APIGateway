@@ -1,4 +1,6 @@
-# User Frontend:
+# User  
+
+## User Frontend:
  - Note: "Action" attribute in both login and signup has to be either `login` or `register`
 ### Login
 - Request method type: POST      
@@ -42,7 +44,7 @@
 }
 ```
 
-# User Service Backend
+## User Service Backend
 
 ### Login
  - Your RESTapi with route `/login` will receive a json formated POST request like this       
